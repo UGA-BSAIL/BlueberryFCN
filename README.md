@@ -1,6 +1,8 @@
 # Fully convolutional networks for blueberry bruising and calyx segmentation using hyperspectral transmittance imaging
 Project: Fully convolutional networks for blueberry bruising and calyx segmentation using hyperspectral transmittance imaging
 
+Authors: Mengyun Zhang, Yu Jiang, Changying Li and Fuzeng Yang
+
 Please download hypwespectral data of blueberry at https://drive.google.com/open?id=16yoBLd2MVOx2ESNGUGZkE4FBO83OpV6v
 and unzip it at the code downloding path.
 
